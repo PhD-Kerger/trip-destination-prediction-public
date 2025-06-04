@@ -11,3 +11,6 @@ These results demonstrate the feasibility of accurate destination prediction in 
 
 ## Usage
 This repository contains the needed code to execute the pipeline used in our paper with a subset of the datasets from the cities of Mannheim. To run the notebook, install all dependencies listed in the requirements.txt file with Python 3.10. All results are displayed in the notebook output cells.
+
+## Data Usage Restrictions
+The dataset included in this repository is intended solely for use within the scope of reproducing the experiments described in our paper. It may not be used for other scenarios or purposes without explicit permission from the authors.
