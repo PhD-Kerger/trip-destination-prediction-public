@@ -1,0 +1,8 @@
+pandas
+numpy
+tqdm
+joblib
+geopy
+scikit-learn
+ipykernel
+xgboost
