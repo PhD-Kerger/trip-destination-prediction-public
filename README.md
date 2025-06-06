@@ -1,5 +1,6 @@
 # Multi-Operator Free-Floating Trip Destination Prediction in Public Mobility Sharing Systems
 Daniel Kerger, Prof. Dr. Heiner Stuckenschmidt
+
 Data and Web Science Group, University of Mannheim, B 6, 26, Mannheim, 68159, Baden-Württemberg, Germany
 
 ## Abstract
